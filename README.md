@@ -1,2 +1,2 @@
- Template for quick startup of STm32F4project's in IAR in windows 
+ Template for quick startup of STM32F4project's in IAR in windows 
 
