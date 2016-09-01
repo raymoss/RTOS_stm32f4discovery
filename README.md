@@ -1,2 +1,2 @@
-# RTOS_stm32f4discovery
-rtos for stm32f4 discovery board
+ Template for quick startup of STm32F4project's in IAR in windows 
+
